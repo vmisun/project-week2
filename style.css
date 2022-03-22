@@ -106,21 +106,3 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
-
-/* ----------- FOR NAVIGATION BAR */
-
-.custom-navbar{
-  background: whitesmoke;
-  /* This is for the space befor your cute name  */
-  padding-left: 50px; 
-}
-
-/* Color for the links at the navbar */
-.nav-link{
-  color: black; 
-}
-
-/* Color for the Navbar Brand (Karolina Gniadzik) */
-.navbar-brand {
-  color: black;
-}
